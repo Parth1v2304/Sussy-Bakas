@@ -1,0 +1,15 @@
+A hospital management system is a software application designed to manage the administrative and operational activities of a hospital or medical facility. It is used to streamline and automate various tasks such as patient registration, appointment scheduling, medical billing, inventory management, and other related activities
+
+A typical hospital management system in C language would include features such as:
+
+1)Patient registration: This feature allows hospital staff to register new patients, capture their personal and medical information, and create unique patient IDs for them.
+
+2)Appointment scheduling: This feature enables hospital staff to schedule appointments for patients, assign doctors, and track the availability of resources such as hospital rooms and medical equipment.
+
+3)Medical billing: This feature allows hospital staff to create and manage bills for medical services provided to patients, including invoicing, payment tracking, and insurance claim management.
+
+4)Inventory management: This feature enables hospital staff to manage the inventory of medical supplies, equipment, and medications, including tracking usage, restocking, and ordering new supplies.
+
+5)Reporting and analytics: This feature allows hospital administrators to generate reports and perform analytics on various aspects of the hospital's operations, such as patient demographics, resource utilization, and financial performance.
+
+Overall, a hospital management system in C language can be a valuable tool for hospitals and medical facilities to improve their operational efficiency, patient care, and financial performance.
